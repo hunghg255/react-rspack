@@ -1,1 +1,1 @@
-# Reactjs + Webpack built by rust
+# Reactjs + Rspack
